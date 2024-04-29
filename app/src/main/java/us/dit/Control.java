@@ -9,7 +9,8 @@ public class Control {
         }
         
    public static int operacion(int a, int b) {
-        return a*b;
+	   //cambio multiplicación por división
+        return a/b;
    }    
   
 }
